@@ -1,4 +1,3 @@
-Osama Hammad
 
 # Hi i am a Software QA Tester (Manual and Automation Testing)   👋
 
