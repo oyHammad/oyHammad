@@ -4,7 +4,6 @@
 
 [my picture] (https://github.com/oyHammad/oyHammad/edit/main/images/258104922_615217639613573_724453866117511000_n.jpg?raw=true)
 
-**oyHammad/oyHammad** is a ✨ _special_ ✨ repository because its `README.md` (258104922_615217639613573_724453866117511000_n) appears on your GitHub profile.
 
 💬 Ask me about any automated tests using cypress 
 
