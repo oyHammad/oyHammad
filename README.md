@@ -1,4 +1,4 @@
-### Hi i am a Software QA Tester (Manual and Automation Testing   👋
+### Hi i am a Software QA Tester (Manual and Automation Testing)   👋
 
 🔭 I’m currently working in Echo Tech Information Technology
 
